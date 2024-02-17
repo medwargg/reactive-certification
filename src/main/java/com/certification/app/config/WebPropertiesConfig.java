@@ -1,4 +1,4 @@
-package com.certiication.app.config;
+package com.certification.app.config;
 
 import org.springframework.boot.autoconfigure.web.WebProperties;
 import org.springframework.context.annotation.Bean;
