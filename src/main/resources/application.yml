@@ -5,3 +5,13 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost/school
+
+
+jjwt:
+  secret: d94cf7ed987ba37d58bc092703c4c9fc034496b4d5f6b847fadc79c92958cce904de698abb746c26075ee8dc366cb4870815147b7a94f1b4802097aa8ffce46c
+  expiration: 2800
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    path: /api/swagger-ui.html
